@@ -13,7 +13,7 @@ const testaticle = [
         "owner": "uniko",
         "image": [
             {
-                "ima": "./assets/img/tesp1.jpg",
+                "ima": "./assets/img/test1.jpg",
                 "_id": "65d0aed08132ce337fe9d062"
             }
         ],
