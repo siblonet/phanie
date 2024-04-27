@@ -799,8 +799,8 @@ Navbar CSS
   .banner-bg2,
   .banner-bg3 {
     background-position: center !important;
-    background-repeat: no-repeat !important;
-    background-size: cover !important;
+    background-repeat: repeat !important;
+    background-size: contain !important;
   }
 }
 
